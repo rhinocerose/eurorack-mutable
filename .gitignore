@@ -27,7 +27,7 @@
 *bottom.pdf
 *.csv
 *partlist.txt
-*.zip
+
 
 # LaTeX compiled file
 *.pdf
